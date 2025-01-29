@@ -25,11 +25,11 @@ This project uses a webcam to detect hand landmarks and classify hand gestures i
     pip install -r requirements.txt
     ```
 
-3. Download the pre-trained model and place it in the [models](http://_vscodecontentref_/0) directory.
+3. Download the pre-trained model and place it in the [models] directory.
 
 ## Usage
 
-1. Run the [cls2.py](http://_vscodecontentref_/1) script:
+1. Run the [cls2.py](https://github.com/Eshan276/sign_lang_Det/blob/main/cls2.py) script:
     ```sh
     python cls2.py
     ```
@@ -40,10 +40,11 @@ This project uses a webcam to detect hand landmarks and classify hand gestures i
 
 ## Files
 
-- [landmarker.py](http://_vscodecontentref_/2): Contains the `Landmarker` class for detecting hand landmarks.
-- [cls2.py](http://_vscodecontentref_/3): Contains the `Classifier` class for classifying hand gestures and the main script to run the program.
-- [models](http://_vscodecontentref_/4): Directory containing the pre-trained models.
-- [requirements.txt](http://_vscodecontentref_/5): List of required packages.
+- [landmarker.py](https://github.com/Eshan276/sign_lang_Det/blob/main/landmarker.py): Contains the `Landmarker` class for detecting hand landmarks.
+- [cls2.py](https://github.com/Eshan276/sign_lang_Det/blob/main/cls2.py): Contains the `Classifier` class for classifying hand gestures and the main script to run the program.
+- [models](https://github.com/Eshan276/sign_lang_Det/blob/main/models): Directory containing the pre-trained models.
+- [requirements.txt](https://github.com/Eshan276/sign_lang_Det/blob/main/requirements.txt): List of required packages.
+
 
 
 
