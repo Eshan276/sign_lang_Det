@@ -3,7 +3,7 @@ This project uses a webcam to detect hand landmarks and classify hand gestures i
 
 ## DEMO
 
-![Example Image](demo.png)
+[![Example Image](demo.png)](https://youtu.be/yIHgsHTjNHc)
 
 [Watch the demo video on YouTube](https://youtu.be/yIHgsHTjNHc)
 
